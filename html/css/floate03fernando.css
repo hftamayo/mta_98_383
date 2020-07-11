@@ -1,0 +1,31 @@
+header,footer{
+    background-color:green;
+    color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2%;
+}
+
+header{
+      margin-top: 15px;
+}
+section{
+    padding: 2%;
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 9%;
+    height:10% ;
+    width: 10%;
+    background-color:green;
+    color: aliceblue;
+}
+
+.section{
+    margin-left: 20%;  
+}
+footer{
+    clear:both;
+    margin-bottom: 0px;
+}
+    
