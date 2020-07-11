@@ -1,0 +1,18 @@
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+section {
+  float: left;
+}
+aside {
+  float: right;
+}
+section,
+aside,
+footer {
+  margin-bottom: 0;
+}
+

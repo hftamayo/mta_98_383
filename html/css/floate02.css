@@ -1,0 +1,21 @@
+header,
+section,
+aside,
+footer {
+  margin: 0px 30.5% 60px 30.5%; 
+  border: 1px solid;
+  background-color: green;
+}
+section {
+  float: left;
+  width: 63%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
+
