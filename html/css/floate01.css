@@ -1,0 +1,23 @@
+header,
+section,
+aside,
+footer {
+  /*margin: 0 1.5% 24px 1.5%; */ 
+  padding: 20px;
+  /* sintaxis de margin: margen arriba(0px), derecha(30.5%), 
+  abajo(24px),izquierda(30.5%)
+  unidades absolutas: 0px y 60px
+  unidades relativas: 30.5% y 30.5%
+  recordatorio:
+  posibles valores de u. absolutas:px, in, pt  
+  posibles valores de u. relativas: %, em
+  POR HACER: buscar en que casos debo usar cada una
+  */
+   margin: 0px 30.5% 60px 30.5%; 
+  border: 1px solid;
+  background-color: green;
+
+}
+footer {
+  margin-bottom: 0;
+}
